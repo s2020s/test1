@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42867" started-at="2020-06-24T23:03:44Z" finished-at="2020-06-24T23:04:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42867" started-at="2020-06-24T23:03:44Z" finished-at="2020-06-24T23:04:27Z">
+      <class name="TestCases.VerifyAddPayeeTC002">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.VerifyAddPayeeTC002@2b98378d]" name="setUp" is-config="true" duration-ms="3976" started-at="2020-06-24T19:03:51Z" finished-at="2020-06-24T19:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:TestCases.VerifyAddPayeeTC002@2b98378d]" name="verifyLogin" duration-ms="3094" started-at="2020-06-24T19:03:55Z" finished-at="2020-06-24T19:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.VerifyAddPayeeTC002@2b98378d]" name="tearDown" is-config="true" duration-ms="1245" started-at="2020-06-24T19:03:58Z" finished-at="2020-06-24T19:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.VerifyAddPayeeTC002 -->
+      <class name="TestCases.payBillsTC003">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.payBillsTC003@475530b9]" name="setUp" is-config="true" duration-ms="3763" started-at="2020-06-24T19:03:59Z" finished-at="2020-06-24T19:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPaybills()[pri:0, instance:TestCases.payBillsTC003@475530b9]" name="verifyPaybills" duration-ms="22713" started-at="2020-06-24T19:04:03Z" finished-at="2020-06-24T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPaybills -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.payBillsTC003@475530b9]" name="tearDown" is-config="true" duration-ms="815" started-at="2020-06-24T19:04:26Z" finished-at="2020-06-24T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.payBillsTC003 -->
+      <class name="TestCases.LogInTC001">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.LogInTC001@4b9e13df]" name="setUp" is-config="true" duration-ms="5198" started-at="2020-06-24T19:03:44Z" finished-at="2020-06-24T19:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:TestCases.LogInTC001@4b9e13df]" name="verifyLogin" duration-ms="1316" started-at="2020-06-24T19:03:49Z" finished-at="2020-06-24T19:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.LogInTC001@4b9e13df]" name="tearDown" is-config="true" duration-ms="710" started-at="2020-06-24T19:03:50Z" finished-at="2020-06-24T19:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.LogInTC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
